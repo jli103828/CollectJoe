@@ -1,0 +1,33 @@
+S:\Projekte (Programmieren, Modelieren, ..)\Visual Studio 2017\CollectJoe\CollectJoe\bin\Debug\CollectJoe.exe.config
+S:\Projekte (Programmieren, Modelieren, ..)\Visual Studio 2017\CollectJoe\CollectJoe\bin\Debug\CollectJoe.exe
+S:\Projekte (Programmieren, Modelieren, ..)\Visual Studio 2017\CollectJoe\CollectJoe\bin\Debug\CollectJoe.pdb
+S:\Projekte (Programmieren, Modelieren, ..)\Visual Studio 2017\CollectJoe\CollectJoe\obj\Debug\CollectJoe.frmField.resources
+S:\Projekte (Programmieren, Modelieren, ..)\Visual Studio 2017\CollectJoe\CollectJoe\obj\Debug\CollectJoe.Properties.Resources.resources
+S:\Projekte (Programmieren, Modelieren, ..)\Visual Studio 2017\CollectJoe\CollectJoe\obj\Debug\CollectJoe.csproj.GenerateResource.Cache
+S:\Projekte (Programmieren, Modelieren, ..)\Visual Studio 2017\CollectJoe\CollectJoe\obj\Debug\CollectJoe.csproj.CoreCompileInputs.cache
+S:\Projekte (Programmieren, Modelieren, ..)\Visual Studio 2017\CollectJoe\CollectJoe\obj\Debug\CollectJoe.exe
+S:\Projekte (Programmieren, Modelieren, ..)\Visual Studio 2017\CollectJoe\CollectJoe\obj\Debug\CollectJoe.pdb
+S:\Projekte (Programmieren, Modelieren, ..)\Visual Studio 2017\CollectJoe\CollectJoe\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+S:\Projekte (Programmieren, Modelieren, ..)\Visual Studio 2017\CollectJoe\CollectJoe\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+S:\Projekte (Programmieren, Modelieren, ..)\Visual Studio 2017\CollectJoe\CollectJoe\obj\Debug\CollectJoe.csprojAssemblyReference.cache
+S:\Projekte (Programmieren, Modelieren, ..)\Visual Studio 2017\CollectJoe\CollectJoe\obj\Debug\CollectJoe.frmOptions.resources
+S:\Projekte (Programmieren, Modelieren, ..)\Visual Studio 2017\CollectJoe\CollectJoe\obj\Debug\CollectJoe.csproj.CopyComplete
+S:\Projekte (Programmieren, Modelieren, ..)\Visual Studio 2017\CollectJoe\CollectJoe\obj\Debug\CollectJoe.frmEditScore.resources
+S:\Projekte (Programmieren, Modelieren, ..)\Visual Studio 2017\CollectJoe\CollectJoe\obj\Debug\CollectJoe.frmScoreList.resources
+C:\Daten\M404\CollectJoe\CollectJoe\bin\Debug\CollectJoe.exe.config
+C:\Daten\M404\CollectJoe\CollectJoe\bin\Debug\CollectJoe.exe
+C:\Daten\M404\CollectJoe\CollectJoe\bin\Debug\CollectJoe.pdb
+C:\Daten\M404\CollectJoe\CollectJoe\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Daten\M404\CollectJoe\CollectJoe\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Daten\M404\CollectJoe\CollectJoe\obj\Debug\CollectJoe.csprojAssemblyReference.cache
+C:\Daten\M404\CollectJoe\CollectJoe\obj\Debug\CollectJoe.frmEditScore.resources
+C:\Daten\M404\CollectJoe\CollectJoe\obj\Debug\CollectJoe.frmField.resources
+C:\Daten\M404\CollectJoe\CollectJoe\obj\Debug\CollectJoe.frmOptions.resources
+C:\Daten\M404\CollectJoe\CollectJoe\obj\Debug\CollectJoe.Properties.Resources.resources
+C:\Daten\M404\CollectJoe\CollectJoe\obj\Debug\CollectJoe.frmScoreList.resources
+C:\Daten\M404\CollectJoe\CollectJoe\obj\Debug\CollectJoe.csproj.GenerateResource.cache
+C:\Daten\M404\CollectJoe\CollectJoe\obj\Debug\CollectJoe.csproj.CoreCompileInputs.cache
+C:\Daten\M404\CollectJoe\CollectJoe\obj\Debug\CollectJoe.csproj.CopyComplete
+C:\Daten\M404\CollectJoe\CollectJoe\obj\Debug\CollectJoe.exe
+C:\Daten\M404\CollectJoe\CollectJoe\obj\Debug\CollectJoe.pdb
+S:\Projekte (Programmieren, Modelieren, ..)\Visual Studio 2017\CollectJoe\CollectJoe\obj\Debug\CollectJoe.frmAdvancedOptions.resources
