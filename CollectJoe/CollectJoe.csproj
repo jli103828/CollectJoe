@@ -49,13 +49,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AdvancedOptions.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="AdvancedOptions.Designer.cs">
-      <DependentUpon>AdvancedOptions.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Eastereggs.cs" />
     <Compile Include="EditScore.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -82,9 +75,6 @@
     <Compile Include="ScoreList.Designer.cs">
       <DependentUpon>ScoreList.cs</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="AdvancedOptions.resx">
-      <DependentUpon>AdvancedOptions.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="EditScore.resx">
       <DependentUpon>EditScore.cs</DependentUpon>
     </EmbeddedResource>

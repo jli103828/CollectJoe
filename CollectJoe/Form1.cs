@@ -79,15 +79,6 @@ namespace CollectJoe
             tmrGame.Stop();
             ResetField();
 
-            if (Convert.ToInt32(lblPoints.Text.TrimEnd(_charsToRemove)) == 284 && _numberBoxesHorizontal == 20 && _numberBoxesVertical == 10)
-            {
-                Eastereggs.Celia(this);
-            }
-            else if (Convert.ToInt32(lblPoints.Text.TrimEnd(_charsToRemove)) > 9000)
-            {
-                Eastereggs.Over9000();
-            }
-
             if (Convert.ToInt32(lblPoints.Text.TrimEnd(_charsToRemove)) < 0)
             {
                 MessageBox.Show("GAME OVER!", "GAME OVER!", MessageBoxButtons.OK, MessageBoxIcon.Hand);
